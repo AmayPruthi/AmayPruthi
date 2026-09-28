@@ -1,16 +1,51 @@
-## Hi there 👋
+Hi, I'm Amay Pruthi 👋
 
-<!--
-**AmayPruthi/AmayPruthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Student interested in Space Science & Rocket Science
+🤖 Electronics, Robotics & Engineering
+💻 Programming & Computer Science
+🧠 Artificial Intelligence & Machine Learning
+🔬 Physics, Mathematics & Scientific Research
 
-Here are some ideas to get you started:
+🧠 What I'm Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤖 Artificial Intelligence & Machine Learning
+- 🚀 Rocket Science & Rocketry
+- ⚛️ Advanced Physics
+- 📐 Advanced Mathematics
+- 💻 Python & Programming
+- 🔌 Electronics & Embedded Systems
+- 🤖 Robotics
+- 🌌 Space Science & Aerospace Engineering
+
+🛠️ What I Build
+
+I enjoy building projects with:
+
+- Arduino
+- ESP32
+- Sensors & electronics
+- Robotics
+- Python
+- AI & ML
+- Computer vision
+
+🚀 My Goal
+
+My long-term goal is to work in space science and engineering and learn how mathematics, physics, electronics, programming and AI can be used to solve real-world problems.
+
+📚 Currently Exploring
+
+🌌 Space & the universe
+🚀 Rocket propulsion and flight
+⚛️ Physics and quantum mechanics
+📐 Mathematics and calculus
+🤖 AI & machine learning
+🔬 Scientific research
+💻 Computer science
+
+🔭 Projects
+
+I'm building and documenting my experiments and projects on GitHub as I learn.
+
+More projects coming soon!
 -->
